@@ -31,3 +31,6 @@ A Tableau dashboard was created to provide an overall analysis of iPhone buyers.
 
 ### Conclusion
 This project successfully addresses the problem of predicting iPhone purchases, and the insights gained can be valuable for stores aiming to understand their customer base better.
+
+![Tableau Dashboard](https://github.com/MuskanKhandelia/Iphone_Purchase_Prediction/assets/65664089/94e93dc0-8311-4ab4-a8cf-633e20b39f27)
+
