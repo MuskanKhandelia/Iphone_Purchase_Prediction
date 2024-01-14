@@ -28,7 +28,9 @@ The accuracy score of the model is 0.83. A confusion matrix was plotted, reveali
 
 ## Tableau Dashboard
 A Tableau dashboard was created to provide an overall analysis of iPhone buyers.
+
 Link - https://public.tableau.com/views/Iphone_Buyer_Analysis/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ![Tableau Dashboard](https://github.com/MuskanKhandelia/Iphone_Purchase_Prediction/assets/65664089/94e93dc0-8311-4ab4-a8cf-633e20b39f27)
 
 ### Conclusion
