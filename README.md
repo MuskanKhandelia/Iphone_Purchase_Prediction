@@ -22,7 +22,7 @@ As we had one categorical variable ('Gender'), we used One Hot Encoding to trans
 
 ## Model Tuning
 For KNN, the optimal value of K was chosen using the Elbow method.
-Decision Tree used entropy as a criterion, which performed better than Gini.
+Decision Tree used entropy as a criterion, as it gave better results than Gini.
 
 ## Model Evaluation
 In comparing K Nearest Neighbour (KNN) and Decision Tree classifiers, both models exhibit similar overall accuracy (83% for KNN and 82% for Decision Tree). However, KNN demonstrates slightly better precision, recall, and F1-score for both classes, indicating a slightly more balanced performance on the given dataset.
