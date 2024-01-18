@@ -7,7 +7,7 @@ The increasing popularity of iPhone purchases has prompted many stores to seek w
 The goal of this project is to predict whether a customer will purchase an iPhone or not.
 
 ## Model
-We have created a K Nearest Neighbour Classifier model in Python, following all phases of the machine learning lifecycle.
+Two classifiers, K Nearest Neighbour (KNN) and Decision Tree, have been implemented to predict iPhone purchases. 
 
 ## Data Analysis and Visualization
 - Utilized pandas and seaborn for data cleaning, analysis, and visualization.
@@ -20,11 +20,12 @@ We have created a K Nearest Neighbour Classifier model in Python, following all 
 ## Data Preprocessing
 As we had one categorical variable ('Gender'), we used One Hot Encoding to transform it into numerical values.
 
-## Choosing the Value of K
-For selecting the value of K, the Error method/Elbow method was employed. The smallest error value was observed for k = 7. Thus, k = 7 was chosen for the model.
+## Model Tuning
+For KNN, the optimal value of K was chosen using the Elbow method.
+Decision Tree used entropy as a criterion, which performed better than Gini.
 
-## Model Performance
-The accuracy score of the model is 0.83. A confusion matrix was plotted, revealing that out of 95 predictions, 16 predictions were incorrect, and 79 were correct.
+## Model Evaluation
+In comparing K Nearest Neighbour (KNN) and Decision Tree classifiers, both models exhibit similar overall accuracy (83% for KNN and 82% for Decision Tree). However, KNN demonstrates slightly better precision, recall, and F1-score for both classes, indicating a slightly more balanced performance on the given dataset.
 
 ## Tableau Dashboard
 A Tableau dashboard was created to provide an overall analysis of iPhone buyers.
