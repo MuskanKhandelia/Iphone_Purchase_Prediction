@@ -30,9 +30,9 @@ In comparing K Nearest Neighbour (KNN) and Decision Tree classifiers, both model
 ## Tableau Dashboard
 A Tableau dashboard was created to provide an overall analysis of iPhone buyers.
 
-https://public.tableau.com/views/Iphone_Buyer_Analysis/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+![Dashboard 1](https://github.com/MuskanKhandelia/Iphone_Purchase_Prediction/assets/65664089/2eee9d9b-6c3c-4f41-95f8-d136a8d845a9)
 
-![Tableau Dashboard](https://github.com/MuskanKhandelia/Iphone_Purchase_Prediction/assets/65664089/94e93dc0-8311-4ab4-a8cf-633e20b39f27)
+https://public.tableau.com/views/Iphone_Buyer_Analysis/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ### Conclusion
 This project successfully addresses the problem of predicting iPhone purchases, and the insights gained can be valuable for stores aiming to understand their customer base better.
