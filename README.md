@@ -1,4 +1,4 @@
-# iPhone Purchase Prediction
+# IPhone Purchase Prediction
 
 ## Problem Statement
 The increasing popularity of iPhone purchases has prompted many stores to seek ways to predict whether a customer will purchase an iPhone from their store based on gender, age, and salary.
